@@ -1,7 +1,7 @@
 
-# Task Manager Full-Stack Application
+# Todo List Full-Stack Application
 
-This is a full-stack task manager application that includes a **Next.js frontend** using **Apollo Client** for GraphQL communication and a **Node.js backend** with **Express**, **GraphQL**, and **SQLite** for data storage.
+This is a full-stack todo list application that includes a **Next.js frontend** using **Apollo Client** for GraphQL communication and a **Node.js backend** with **Express**, **GraphQL**, and **SQLite** for data storage.
 
 ## Features
 
@@ -34,7 +34,7 @@ Make sure you have the following installed:
 #### a. Navigate to the backend directory
 
 ```bash
-cd task-manager-backend
+cd todolist backend
 ```
 
 #### b. Install dependencies
@@ -56,7 +56,7 @@ The backend will start on `http://localhost:4000/graphql`, and you can use the G
 #### a. Navigate to the frontend directory
 
 ```bash
-cd task-manager-frontend
+cd todolist frontend
 ```
 
 #### b. Install dependencies
