@@ -3,6 +3,10 @@
 
 This is a full-stack todo list application that includes a **Next.js frontend** using **Apollo Client** for GraphQL communication and a **Node.js backend** with **Express**, **GraphQL**, and **SQLite** for data storage.
 
+<p align="center">
+  <img src="https://github.com/pablomagalhaes/todolist/tree/main/frontend/src/assets/previews/preview.png" width="700"/>
+</p>
+
 ## Features
 
 - **Backend**:
